@@ -8,7 +8,7 @@
                 "actionKeyword": "isVisible"
             },
             "%2": {
-                "value": "expected value"
+                "options": ["true","false"]
             }
         }   
     },
@@ -20,7 +20,7 @@
                 "actionKeyword": "isVisible"
                         },
             "%2": {
-                "options": ["true","false"]
+                "value": "expected value"
             }
         }
     }]
