@@ -2,5 +2,5 @@
     "name":"Note",
     "parameters":{"%1":{"label":"Text"}},
     "syntax":"|note|%1|",
-    "%1":"gegeregrgre",
+    "%1":"gegeregrgre"
 }
